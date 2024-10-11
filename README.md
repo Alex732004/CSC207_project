@@ -7,10 +7,6 @@ The movie list is a group project of 5 members implemented using Java. Its struc
 
 ![image](https://github.com/user-attachments/assets/22b1d0f9-808f-4762-9f5b-59ddb0879207)
 
-![image](https://github.com/user-attachments/assets/1e7a3771-1c61-4266-bdc1-a67d87cae3a1)
-
-![image](https://github.com/user-attachments/assets/d1060261-c570-4af9-bf25-fd79fc62726e)
-
 ![image](https://github.com/user-attachments/assets/78277efe-89b8-4835-a148-79dbead14299)
 
 ## Problem Domain
