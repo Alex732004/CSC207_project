@@ -2,7 +2,8 @@
 
 ![image](https://github.com/user-attachments/assets/c08dbed8-7bd3-4d1b-97cf-da1d254a4caf)
 
-![image](https://github.com/user-attachments/assets/c46940ec-d634-4427-b121-17062bf805d0)
+![image](https://github.com/user-attachments/assets/22b1d0f9-808f-4762-9f5b-59ddb0879207)
+
 ![image](https://github.com/user-attachments/assets/1e7a3771-1c61-4266-bdc1-a67d87cae3a1)
 
 ## Problem Domain
